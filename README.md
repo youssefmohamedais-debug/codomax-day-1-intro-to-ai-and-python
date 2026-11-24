@@ -1,0 +1,1 @@
+# codomax-day-1-intro-to-ai-and-python
